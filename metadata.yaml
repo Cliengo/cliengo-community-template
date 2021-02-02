@@ -13,7 +13,7 @@
 # limitations under the License.
 
 homepage: "https://www.cliengo.com"
-documentation: "https://developers.cliengo.com/docs/community-template"
+documentation: "https://developers.cliengo.com/docs/javascript-api"
 versions:
   - sha: 9acdc9e91b342b97c4d88fabd3c3a973da41f60a
     changeNotes: Initial Version
