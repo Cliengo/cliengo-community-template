@@ -15,5 +15,5 @@
 homepage: "https://www.cliengo.com"
 documentation: "https://developers.cliengo.com/docs/community-template"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: 9acdc9e91b342b97c4d88fabd3c3a973da41f60a
     changeNotes: Initial Version
